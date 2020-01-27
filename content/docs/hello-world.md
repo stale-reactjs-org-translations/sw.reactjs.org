@@ -6,7 +6,7 @@ prev: cdn-links.html
 next: introducing-jsx.html
 ---
 
-The smallest React example looks like this:
+Mfano mdogo wa React unaonekana hivi:
 
 ```js
 ReactDOM.render(
@@ -15,36 +15,36 @@ ReactDOM.render(
 );
 ```
 
-It displays a heading saying "Hello, world!" on the page.
+Inaonyesha kichwa kinachosema "Hello, world!" kwenye ukurasa.
 
 [](codepen://hello-world)
 
-Click the link above to open an online editor. Feel free to make some changes, and see how they affect the output. Most pages in this guide will have editable examples like this one.
+Bonyeza kiunga hapa juu kufungua hariri ya mkondoni. Jisikie huru kufanya mabadiliko kadhaa, na uone jinsi zinavyoathiri pato. Kurasa nyingi katika mwongozo huu zitakuwa na mifano ya kuhariri kama hii.
 
 
-## How to Read This Guide {#how-to-read-this-guide}
+## Jinsi ya kusoma Mwongozo huu {#how-to-read-this-guide}
 
-In this guide, we will examine the building blocks of React apps: elements and components. Once you master them, you can create complex apps from small reusable pieces.
+Katika mwongozo huu, tutachunguza vitengo vya ujenzi wa programu za React: elements na components. Utakapozijua, utaweza kuunda programu ngumu kutoka kwa vipande vidogo vinavyoweza kutumika tena.
 
->Tip
+>Kidokezo
 >
->This guide is designed for people who prefer **learning concepts step by step**. If you prefer to learn by doing, check out our [practical tutorial](/tutorial/tutorial.html). You might find this guide and the tutorial complementary to each other.
+>Mwongozo huu umeundwa kwa watu ambao wanapendelea **kujifunza dhana kwa hatua**. Ikiwa unapenda kujifunza kwa kufanya, angalia [mafunzo yetu ya vitendo](/tutorial/tutorial.html). Unaweza kupata mwongozo huu inasaidiana na mafunzo hayo.
 
-This is the first chapter in a step-by-step guide about main React concepts. You can find a list of all its chapters in the navigation sidebar. If you're reading this from a mobile device, you can access the navigation by pressing the button in the bottom right corner of your screen.
+Hii ndio sura ya kwanza katika mwongozo wa hatua kwa hatua kuhusu dhana kuu za React. Unaweza kupata orodha ya sura zake zote kwenye upau wa kando ya urambazaji. Ikiwa unasoma kutoka kwa simu ya rununu, unaweza kufikia urambazaji kwa kubonyeza kitufe kwenye kona ya chini ya kulia ya skrini yako.
 
-Every chapter in this guide builds on the knowledge introduced in earlier chapters. **You can learn most of React by reading the “Main Concepts” guide chapters in the order they appear in the sidebar.** For example, [“Introducing JSX”](/docs/introducing-jsx.html) is the next chapter after this one.
+Kila sura katika mwongozo huu inaendeleza maarifa yaliyoletwa katika sura za mapema. **Unaweza kujifunza React zaidi kwa kusoma safu za mwongozo wa "Dhana kuu" zinavyoonekana kwenye upau wa pembeni.** Kwa mfano, [“Introducing JSX”](/docs/introducing-jsx.html) ndio sura inayofuata baada ya hii.
 
-## Knowledge Level Assumptions {#knowledge-level-assumptions}
+## Dhana ya Kiwango cha Maarifa {#knowledge-level-assumptions}
 
-React is a JavaScript library, and so we'll assume you have a basic understanding of the JavaScript language. **If you don't feel very confident, we recommend [going through a JavaScript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) to check your knowledge level** and enable you to follow along this guide without getting lost. It might take you between 30 minutes and an hour, but as a result you won't have to feel like you're learning both React and JavaScript at the same time.
+React ni maktaba ya JavaScript, kwa hivyo tunadhania kuwa una ufahamu wa kimsingi wa lugha ya JavaScript. **Ikiwa haujihisi kijasiri, tunapendekeza [kupitia mwongozo wa JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) kuangalia kiwango chako cha maarifa** ili kikuwezeshe kufuata mwongozo huu bila kupotea. Itakuchukua kati ya dakika 30 au saa moja, lakini matokeo yake hautahisi kana kwamba unajifunza lugha yote mawili ya React na JavaScript wakati mmoja.
 
->Note
+>Kumbuka
 >
->This guide occasionally uses some of the newer JavaScript syntax in the examples. If you haven't worked with JavaScript in the last few years, [these three points](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) should get you most of the way.
+>Mwongozo huu wakati mwingine hutumia mfumo mpya wa JavaScript kwenye mifano. Ikiwa haujajihusisha na JavaScript katika miaka michache iliyopita, [nukta hizi tatu](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) zinapaswa kukupa njia zaidi.
 
 
-## Let's Get Started! {#lets-get-started}
+## Tuanze! {#lets-get-started}
 
-Keep scrolling down, and you'll find the link to the [next chapter of this guide](/docs/introducing-jsx.html) right before the website footer.
+Endelea kwa kushuka chini kwenye ukurasa, utapata kiunga cha sura inayofuata ya mwongozo huu mbele ya wavuti wa tovuti.
 
 
