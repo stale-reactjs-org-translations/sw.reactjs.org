@@ -8,9 +8,9 @@ prev: introducing-jsx.html
 next: components-and-props.html
 ---
 
-Elements are the smallest building blocks of React apps.
+Elementi ni vitalu vidogo vya ujenzi wa programu za React.
 
-An element describes what you want to see on the screen:
+Elementi inaelezea kile unachotaka kuona kwenye skrini:
 
 ```js
 const element = <h1>Hello, world</h1>;
