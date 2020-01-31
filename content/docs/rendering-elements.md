@@ -24,7 +24,7 @@ Unlike browser DOM elements, React elements are plain objects, and are cheap to 
 
 ## Rendering an Element into the DOM {#rendering-an-element-into-the-dom}
 
-Let's say there is a `<div>` somewhere in your HTML file:
+Tuseme kuna `<div>` mahali kwenye faili yako ya HTML:
 
 ```html
 <div id="root"></div>
