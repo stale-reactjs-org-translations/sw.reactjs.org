@@ -40,7 +40,11 @@ React ni maktaba ya JavaScript, kwa hivyo tunadhania kuwa una ufahamu wa kimsing
 
 >Kumbuka
 >
+<<<<<<< HEAD
 >Mwongozo huu wakati mwingine hutumia mfumo mpya wa JavaScript kwenye mifano. Ikiwa haujajihusisha na JavaScript katika miaka michache iliyopita, [nukta hizi tatu](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) zinapaswa kukupa njia zaidi.
+=======
+>This guide occasionally uses some newer JavaScript syntax in the examples. If you haven't worked with JavaScript in the last few years, [these three points](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) should get you most of the way.
+>>>>>>> 284c2544f1e8b2e216986a8a9e7affe34d328cb0
 
 
 ## Tuanze! {#lets-get-started}
