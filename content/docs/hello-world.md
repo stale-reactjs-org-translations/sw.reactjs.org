@@ -17,7 +17,7 @@ ReactDOM.render(
 
 Inaonyesha kichwa kinachosema "Hello, world!" kwenye ukurasa.
 
-[](codepen://hello-world)
+**[Try it on CodePen](https://codepen.io/gaearon/pen/rrpgNB?editors=1010)**
 
 Bonyeza kiunga hapa juu kufungua hariri ya mkondoni. Jisikie huru kufanya mabadiliko kadhaa, na uone jinsi zinavyoathiri pato. Kurasa nyingi katika mwongozo huu zitakuwa na mifano ya kuhariri kama hii.
 
@@ -40,7 +40,11 @@ React ni maktaba ya JavaScript, kwa hivyo tunadhania kuwa una ufahamu wa kimsing
 
 >Kumbuka
 >
+<<<<<<< HEAD
 >Mwongozo huu wakati mwingine hutumia mfumo mpya wa JavaScript kwenye mifano. Ikiwa haujajihusisha na JavaScript katika miaka michache iliyopita, [nukta hizi tatu](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) zinapaswa kukupa njia zaidi.
+=======
+>This guide occasionally uses some newer JavaScript syntax in the examples. If you haven't worked with JavaScript in the last few years, [these three points](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c) should get you most of the way.
+>>>>>>> 20f0fe280f3c122df7541256b983c46e21e33b20
 
 
 ## Tuanze! {#lets-get-started}
